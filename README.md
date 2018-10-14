@@ -1,4 +1,4 @@
-## Aplicacion de comandos
+## Aplicacion de comandos en tareas por hacer
 
 Este es el ejercicio del curso
 
